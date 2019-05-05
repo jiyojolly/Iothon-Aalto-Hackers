@@ -1,0 +1,12 @@
+{
+    "name": "node-api",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.16.4",
+        "influx": "^5.0.7",
+        "mongoose": "~3.6.13",
+        "mqtt": "^2.18.8"
+    }
+}
